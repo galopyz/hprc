@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 # Data
-data/RNA_batched.csv
-data/RNA_norm.csv
+data/
