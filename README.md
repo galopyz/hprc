@@ -16,3 +16,5 @@ Miniai library from https://github.com/fastai/course22p2/tree/master.
 - circadian23: 
   - Using hepatocyte datasets (https://pubmed.ncbi.nlm.nih.gov/32732282/)
 
+- meta_analysis:
+  - Using multiple datasets from "Meta-analysis of Diurnal Transcriptomics in Mouse Liver ... " (https://github.com/tgbrooks/circadian_comparison?tab=readme-ov-file)
