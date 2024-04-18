@@ -21,3 +21,6 @@ Miniai library from https://github.com/fastai/course22p2/tree/master.
 
 - circadian24:
   - Using meta_analysis data
+
+- circadian24-Copy1.ipynb:
+  - Train using the original data.
