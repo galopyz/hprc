@@ -18,3 +18,6 @@ Miniai library from https://github.com/fastai/course22p2/tree/master.
 
 - meta_analysis:
   - Using multiple datasets from "Meta-analysis of Diurnal Transcriptomics in Mouse Liver ... " (https://github.com/tgbrooks/circadian_comparison?tab=readme-ov-file)
+
+- circadian24:
+  - Using meta_analysis data
