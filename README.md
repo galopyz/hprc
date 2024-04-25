@@ -24,3 +24,6 @@ Miniai library from https://github.com/fastai/course22p2/tree/master.
 
 - circadian24-Copy1.ipynb:
   - Train using the original data.
+
+- circadian24-Copy2.ipynb:
+  - Copy1 with sigmoid 0~24.
